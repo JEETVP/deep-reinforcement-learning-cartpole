@@ -1,0 +1,7 @@
+{
+    "episodes": 20,
+    "average_reward": 125.5,
+    "best_reward": 132.0,
+    "worst_reward": 116.0,
+    "std_reward": 3.7616485747608057
+}

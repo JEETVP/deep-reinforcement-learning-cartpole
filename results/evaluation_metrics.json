@@ -1,0 +1,7 @@
+{
+    "test_episodes": 20,
+    "average_reward": 125.5,
+    "best_reward": 132.0,
+    "worst_reward": 116.0,
+    "standard_deviation": 3.7616485747608057
+}
